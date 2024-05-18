@@ -105,3 +105,8 @@
     justify-content: space-evenly;
     border: 1px solid black;
   }
+  .A2{
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: 50px;
+  }
